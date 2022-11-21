@@ -2,9 +2,9 @@
 ## co. wipia temples study repository
 
 ### 1. Array
-     how to make an array
-     array application
-     array made adressbook
+<br>how to make an array
+</br>array application
+</br>array made adressbook
      
 
 ### 2. override
