@@ -8,7 +8,7 @@ public class PhoneEgrukeulMain {
 		PhoneBookManager manager = PhoneBookManager.createManagerInst();
 		JFrame winFrame = new SearchDelFrame("PhoneBookVer09");
 		int choice;
-		
+		int item=0;
 		while(true) {
 			try {
 				MenuViewer.showMenu();
