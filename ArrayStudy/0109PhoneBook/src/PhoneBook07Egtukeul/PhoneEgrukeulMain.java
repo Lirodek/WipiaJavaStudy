@@ -3,12 +3,11 @@ package PhoneBook07Egtukeul;
 import javax.swing.JFrame;
 
 public class PhoneEgrukeulMain {
-
+	
 	public static void main(String[] args) {
 		PhoneBookManager manager = PhoneBookManager.createManagerInst();
 		JFrame winFrame = new SearchDelFrame("PhoneBookVer09");
 		int choice;
-		int hihi;
 		while(true) {
 			try {
 				MenuViewer.showMenu();
