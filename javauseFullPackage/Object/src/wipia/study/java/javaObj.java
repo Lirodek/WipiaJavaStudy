@@ -1,11 +1,11 @@
 package wipia.study.java;
 
+import java.lang.System.Logger;
 import java.util.Objects;
 
 import wipia.study.property.Person;
 
 public class javaObj {
-	
 	
 	public static void main(String[] args) throws CloneNotSupportedException {
 		//getClassEx(new Minwoo());
@@ -67,13 +67,16 @@ public class javaObj {
 	
 	// 파이널라이즈 예제
 	private static void finalizeEx() {
+		Person test = new Person("test", 1);
 		for(int i = 0; i < 20; i++) {
-			Person test = new Person("배광민"+i, i);
+			test = new Person("배광민"+i, i);
 			
-			test = null;
 			//null 값을 넣어 기존에 있는 값을 쓰레기로 만듬
-			System.gc();
+			
 		}
+		System.out.println("test :: " + test.toString());
+		System.gc();
+		
 	}
 }
 
