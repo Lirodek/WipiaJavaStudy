@@ -8,13 +8,19 @@ import wipia.study.property.Person;
 public class javaObj {
 	
 	public static void main(String[] args) throws CloneNotSupportedException {
-		//getClassEx(new Minwoo());
-		//hashCodeEx();
-		//equalsEx();
-		//cloneEx();
-		finalizeEx();
+		long startTime = System.currentTimeMillis();
+		//getClassEx(new Person()); //2ms
+		//hashCodeEx(); // 1ms
+		//equalsEx();	// 1ms
+		//cloneEx(); // 1ms
 		
+		//finalizeEx(); // 7ms
+
+		long finishTime = System.currentTimeMillis();
 		
+        long elapsedTime = finishTime - startTime;
+
+        System.out.println("elapsedTime(ms) : " + elapsedTime);
 		
 	}
 	
@@ -59,9 +65,9 @@ public class javaObj {
 	private static void cloneEx() throws CloneNotSupportedException {
 		Person p1 = new Person("배광민", 25);
 		Person p2 = new Person("김선경", 25);
-		p1.setParents(new Person("곽혜연", 47));
+		p1.setParents(new Person("배멍멍", 47));
 		Person p3 = (Person)p1.clone();
-		p1.setParents(new Person("혜연", 47));
+		p1.setParents(new Person("멍멍", 47));
 		System.out.println(p3.getParents().toString());
 	}
 	

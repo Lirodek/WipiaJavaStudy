@@ -5,7 +5,9 @@ import java.util.List;
 
 import function.problem.vo.SpecialPackage;
 import function.problem.vo.TravelPackage;
-
+/*
+ * 
+ * */
 public class main {
 	private static List<TravelPackage> travelPackageList = new ArrayList<TravelPackage>();
 	private static List<SpecialPackage> speicalPackageList = new ArrayList<SpecialPackage>();
@@ -36,7 +38,7 @@ public class main {
 		travelPackageList.get(i++).setAttrPath( "c:/travelPath/"+travelPackageList.get(i).getAddr() + travelPackageList.get(i).getNm() + travelPackageList.get(i).getExtn() );
 		travelPackageList.get(i++).setAttrPath( "c:/travelPath/"+travelPackageList.get(i).getAddr() + travelPackageList.get(i).getNm() + travelPackageList.get(i).getExtn() );
 		travelPackageList.get(i++).setAttrPath( "c:/travelPath/"+travelPackageList.get(i).getAddr() + travelPackageList.get(i).getNm() + travelPackageList.get(i).getExtn() );
-		//travelPackageList.get(i++).setAttrPath( travelPackageList.get(i).getAddr() + travelPackageList.get(i).getNm() + travelPackageList.get(i).getExtn() );
+		//	travelPackageList.get(i++).setAttrPath( travelPackageList.get(i).getAddr() + travelPackageList.get(i).getNm() + travelPackageList.get(i).getExtn() );
 		
 		i=0;
 		speicalPackageList.get(i++).setAttrPath( "c:/specialPath/"+speicalPackageList.get(i).getAddr() + speicalPackageList.get(i).getNm() + speicalPackageList.get(i).getExtn() );
