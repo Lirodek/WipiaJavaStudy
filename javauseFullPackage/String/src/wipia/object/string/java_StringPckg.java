@@ -7,11 +7,9 @@ public class java_StringPckg {
 		String a="안녕하세용";
 		print(a.copyValueOf(new char[] {'이','걸','누','가','써'}));// char 배열을 String으로 바꿔요 내부구조 new String(val)
 		print(a.concat(" ㄹㅇㅋㅋ")); 				// 다른 문자열의 끝에 문자열을 추가합니다.
-		
 		print(a.compareTo("안녕하")); 			// 해당 데이터와 같은지 비교해서 다른 문자열의 갯수를 리턴합니다
 		print(a.compareToIgnoreCase("안녕하")); 	// 위와 같은 기능을하지만 대소문자차이를 무시합니다 
 		print(a.charAt(0)); 					// 해당 위치의 문자를 가져옵니다 returnType char
-		
 		print(a.contains("하세")); 				// 문자열의 해당 문자열이 있는지 확인합니다. 내부가 indexOf로 돌아감
 		print(a.endsWith("용")); 				// 문자열이 해당 매개변수로 끝나는지 확인합니다.
 		print(a.contentEquals("안녕하세용")); 		// 문자열이 정확하게 같은 값이 있는지 확인 equals보다 정밀-
@@ -38,7 +36,7 @@ public class java_StringPckg {
 		print("lirodek".toUpperCase());			// 소문자를 대문자로
 		print(a.toString());					// Object정리 참조. 
 		print(a.trim());						// 문자앞과 뒤의 공백제거
-		print(a.valueOf(48484848*48));						// 공백제거
+		print(String.valueOf(48484848*48));		// 매개변수의 해당하는 (숫자,char, 각종 String이 아닌것들)을 문자열로 변환합니다.
 		
 		
 		
