@@ -4,6 +4,8 @@ public class java_StringPckg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		var test = 'z';
+		
 		String a="안녕하세용";
 		print(a.copyValueOf(new char[] {'이','걸','누','가','써'}));// char 배열을 String으로 바꿔요 내부구조 new String(val)
 		print(a.concat(" ㄹㅇㅋㅋ")); 				// 다른 문자열의 끝에 문자열을 추가합니다.
@@ -36,7 +38,7 @@ public class java_StringPckg {
 		print("lirodek".toUpperCase());			// 소문자를 대문자로
 		print(a.toString());					// Object정리 참조. 
 		print(a.trim());						// 문자앞과 뒤의 공백제거
-		print(String.valueOf(48484848*48));		// 매개변수의 해당하는 (숫자,char, 각종 String이 아닌것들)을 문자열로 변환합니다.
+		//print(String.valueOf(48484848*48));		// 매개변수의 해당하는 (숫자,char, 각종 String이 아닌것들)을 문자열로 변환합니다.
 		
 		
 		

@@ -35,9 +35,10 @@ public class Person implements Cloneable{
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		Person other = (Person) obj;
-		
-		return Objects.equals(name, other.name);
+		int other =  obj.hashCode();
+		int thisClass = this.hashCode();
+		return other == thisClass;
+//		return Objects.equals(name, other.name);
 	}
 
 	
