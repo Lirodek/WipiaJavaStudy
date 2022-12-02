@@ -16,13 +16,12 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 ### SingleTon Pattern
 1. 싱글톤패턴 노션정리
-https://www.notion.so/104b3c08849c4e0280b2cc6e55250e34
+</br>https://www.notion.so/104b3c08849c4e0280b2cc6e55250e34
 
 
 ### java usefull package
 1. object class
-</br>
-https://noon-death-01b.notion.site/2022ea82fb2647ec968f2dab34556f40
+</br>https://noon-death-01b.notion.site/2022ea82fb2647ec968f2dab34556f40
 
 
 
