@@ -11,6 +11,7 @@ public class java_StringPckg {
 		System.out.println(stringAdd("오늘도", " 수고가", " 많으셨습니다 ! ")); 
 		
 		String a="안녕하세용안";
+		
 		print(a.copyValueOf(new char[] {'이','걸','누','가','써'}));// char 배열을 String으로 바꿔요 내부구조 new String(val)
 		print(a.concat(" ㄹㅇㅋㅋ")); 				// 다른 문자열의 끝에 문자열을 추가합니다.
 		print(무작위문자열.compareTo("그그그")); 		// 해당 데이터와 같은지 비교해서 다른 문자열의 갯수를 리턴합니다
@@ -43,11 +44,20 @@ public class java_StringPckg {
 		print(String.valueOf(48484848*48));		// 매개변수의 해당하는 (숫자,char, 각종 String이 아닌것들)을 문자열로 변환합니다.
 		
 		print(a.indexOf("하세")); 				// 해당 문자열의 매개변수의 위치를 가져옵니다. -1일경우 존재하지않음.
-		print("C:\\Users\\user\\OneDrive\\GwangMin".lastIndexOf("\\")); // 해당 문자열의 문자가 마지막으로 발견된곳.
+		print("C:\\Users\\user\\OneDrive\\GwangMin.jpg".lastIndexOf("\\")); // 해당 문자열의 문자가 마지막으로 발견된곳.
 		print(a.replace("안", "hello"));			// 문자열안에 A의 해당하는 영역을 B로 교체합니다. 
 		print(a.split("하")[0]);					// 해당 문자를 기점으로 잘라냅니다
 		print(a.matches("")); 					// 정규식과 일치하는 항목을 검색하고 일치여부를 반환합니다.
-		print(a.equals("안녕하세용")); 			// 문자열의 해당 문자열이 있는지 확인합니다.
+		print(a.equals("안녕하세용")); 				// 문자열의 해당 문자열이 있는지 확인합니다.
+		
+		
+		String path = "C:\\Users\\user\\OneDrive\\GwangMin.jpg";
+		print( path.substring(path.lastIndexOf("\\")+1, path.length()) );
+		String arr[] = path.split("\\\\"); 		// 특수문자를 자를때는 \\를 붙여줘야합니다.
+		print(arr[arr.length-1] == path.substring(path.lastIndexOf("\\")+1, path.length()));
+		print(arr[arr.length-1].equals( path.substring(path.lastIndexOf("\\")+1, path.length())) );
+		path = path.replace("\\\\", "/");		// \\문자를 //로 바꿔주었습니다.
+		print(path);
 		
 	}
 	
