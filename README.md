@@ -28,6 +28,10 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 object class
 </br>https://noon-death-01b.notion.site/2022ea82fb2647ec968f2dab34556f40
 
+### 컬렉션 프레임워크
+Collection
+https://karlisle.tistory.com/5
+
 
 
 
