@@ -32,6 +32,8 @@ object class
 Collection
 </br>https://karlisle.tistory.com/5
 
+### 캐스팅
+upCasing & downCasting
 
 
 
