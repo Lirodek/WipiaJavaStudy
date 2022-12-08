@@ -36,6 +36,22 @@ Collection
 upCasing & downCasting
 this is mine
 
+### 예외처리
+</br> try - catch
+</br> try with resource
+</br> https://victorious-lace-5a6.notion.site/4d0843eb32304e339bb5dee69dabd15e
+
+### thread
+thread
+</br> https://karlisle.tistory.com/7 / wipia
+
+### ArrayList or ( Generic )
+</br> https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94
+
+### MAP
+</br> https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44
+
+
 ### 파일 다운로드와 문자열의 유용한 함수들
 </br>1. String 클래스들의 자주 사용되는 함수들
 </br>2. 실무에서 파일을 다운로드하기 위한 로직
