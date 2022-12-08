@@ -56,7 +56,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br> https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94
 >
 > ### MAP - 지민우
-> > </br> https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44
+> > https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44
 >
 > ### 파일 다운로드와 문자열의 유용한 함수들 - 배광민
 > > </br>1. String 클래스들의 자주 사용되는 함수들
