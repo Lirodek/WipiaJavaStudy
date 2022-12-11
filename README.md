@@ -66,7 +66,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
  ## 4회차
 > ### Enum 열거체 - 배광민
-> > </br> enum 이란?
+> > enum 이란?
 > > </br> enum의 사용이유
 > > </br> enum의 장점
 > > </br> https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe
