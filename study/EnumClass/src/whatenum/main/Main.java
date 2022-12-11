@@ -34,8 +34,15 @@ public class Main {
 		배광민 광민 = new 배광민("광민", "광민입니다.");
 		String name = 광민.getName();
 		
-		Wipia typeOf = Wipia.of("수진");
+		Wipia typeOf = Wipia.of("힘수진");
 		System.out.println(typeOf.getDescription());
+		
+		Wipia wipiaIndex[] = Wipia.values();
+		for(Wipia temp : wipiaIndex){
+			if(temp.getName() == "광민") {
+				System.out.println(temp.getDescription());
+			}
+		}
 		
 		switch (typeOf) {
 		case 배광민:
