@@ -6,7 +6,6 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 ## 1회차
-
 > ### Array - 배광민
 > > 배열 만드는 방법 
 > > </br> 배열로 동작하는 주소록
@@ -19,7 +18,6 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 > ## 2회차
->
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
 > > <br>https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34
