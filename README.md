@@ -18,7 +18,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
 
 
- ## 2회차
+> ## 2회차
 >
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
@@ -64,5 +64,9 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br>https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864
 
 
-#
-
+ ## 4회차
+> ### Enum 열거체 - 배광민
+> > enum 이란?
+> > enum의 사용이유
+> > enum의 장점
+> > https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe
