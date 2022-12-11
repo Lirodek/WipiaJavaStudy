@@ -53,6 +53,8 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br> https://karlisle.tistory.com/7 / wipia
 >
 > ### ArrayList or ( Generic ) - 주수진
+> > ArrayList
+> > ArrayList에 Generic
 > > </br> https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94
 >
 > ### MAP - 지민우
