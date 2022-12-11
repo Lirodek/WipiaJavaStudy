@@ -6,7 +6,6 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 ## 1회차
-
 > ### Array - 배광민
 > > 배열 만드는 방법 
 > > </br> 배열로 동작하는 주소록
@@ -18,8 +17,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
 
 
- ## 2회차
->
+> ## 2회차
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
 > > <br>https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34
@@ -53,6 +51,8 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br> https://karlisle.tistory.com/7 / wipia
 >
 > ### ArrayList or ( Generic ) - 주수진
+> > ArrayList
+> > ArrayList에 Generic
 > > </br> https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94
 >
 > ### MAP - 지민우
@@ -64,5 +64,9 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br>https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864
 
 
-#
-
+ ## 4회차
+> ### Enum 열거체 - 배광민
+> > enum 이란?
+> > </br> enum의 사용이유
+> > </br> enum의 장점
+> > </br> https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe
