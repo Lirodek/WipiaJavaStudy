@@ -36,13 +36,13 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 >
 > ### 캐스팅 - 주수진
 > > upCasing & downCasting
-> > this is mine
+> > <br>https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e
 
 
 ## 3회차
 >
 > ### 예외처리 - 정수진 
-> > </br> try - catch
+> > try - catch
 > > </br> try with resource
 > > </br> https://victorious-lace-5a6.notion.site/4d0843eb32304e339bb5dee69dabd15e
 >
