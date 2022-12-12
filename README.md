@@ -36,7 +36,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 >
 > ### 캐스팅 - 주수진
 > > upCasing & downCasting
-> > https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e
+> > <br>https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e
 
 
 ## 3회차
