@@ -1,6 +1,7 @@
 package whatenum.main;
 
 import java.util.Arrays;
+import java.util.List;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -28,5 +29,6 @@ public enum Wipia {
 				.findAny()
 				.orElse(틀렸어);
 	}
+	
 	
 }
