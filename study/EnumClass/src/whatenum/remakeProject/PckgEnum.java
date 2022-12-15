@@ -16,12 +16,7 @@ public enum PckgEnum {
 	
 	private final String pckgName;
 	
-	static PckgEnum getRootDirList(List<? extends BaseVo> list) throws ClassNotFoundException, NoSuchMethodException, SecurityException, IllegalAccessException, IllegalArgumentException, InvocationTargetException{
-		Class<?> returnList = Class.forName(list.get(0).getClass().getName());
-		Object newObj = returnList.getInterfaces();
-		Method m = returnList.getDeclaredMethod("show", boolean.class);
-		System.out.println(m.invoke(newObj, true).getClass().getName()); 
-		System.out.println(newObj.getClass().getName());
+	static PckgEnum getRootDirList(List<? extends BaseVo> list) {
 		
 		return Arrays.stream(PckgEnum.values())
 				.filter(r -> r.getPckgName().equals(list.get(0).getClass().getSimpleName())) 
