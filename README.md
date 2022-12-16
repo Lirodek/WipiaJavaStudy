@@ -70,3 +70,18 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br> enum의 사용이유
 > > </br> enum의 장점
 > > </br> https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe
+> ### Thread와 MultiThread Api - 박범진 ★
+> > Thread Group과 executor
+> > </br> Java Thread관리의 어려움
+> > </br> MultiThread Api
+> > </br> https://karlisle.tistory.com/9  pw : wipia
+> ### Generic2 & WildCard - 주수진 ★
+> > Generic의 사용이유
+> > </br> Type parameter
+> > </br> bounded type parameter
+> > </br> wildCard
+> > </br> https://www.notion.so/GENERIC-WILD-CARD-19b10f205552446bab9553e2c1cbfcf2
+> ### Stack, Queue - 지민우
+> > Stack
+> > </br> Queue
+> > </br> https://clover-piccolo-0fa.notion.site/Stack-Queue-221215-2163d3886bfa4ba69dcbb2fc552a079c
