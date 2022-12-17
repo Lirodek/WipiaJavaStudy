@@ -17,7 +17,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
 
 
-> ## 2회차
+## 2회차
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
 > > <br>https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34
