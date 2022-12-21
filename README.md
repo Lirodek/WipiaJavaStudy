@@ -38,7 +38,7 @@
 
 
 <details>
-<summary> 3회차 </summary>
+<summary> ## 3회차 </summary>
 
 ## 3회차
 >
