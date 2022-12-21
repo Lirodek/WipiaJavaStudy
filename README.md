@@ -4,8 +4,7 @@
 ### [🔗자바의 정석 목차](https://wpgenius.notion.site/22c3a0f2ff074c7f83e9b392158dee43)
 
 <details>
-## 
-  <summary> 1회차 </summary>
+<summary> 1회차 </summary>
 
 > ### [Array - 배광민](https://noon-death-01b.notion.site/63a2198d66fe4ab98a236e76d5b7127d)
 > > 배열 만드는 방법 
