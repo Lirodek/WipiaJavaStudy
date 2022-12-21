@@ -1,7 +1,7 @@
 # WipiaJavaStudy
 
 ## 안녕하세요. 위피아의 자바공부 Repository입니다!! 
-### [🔗자바의 정석 목차(Click!)](https://wpgenius.notion.site/22c3a0f2ff074c7f83e9b392158dee43)
+### [🔗자바의 정석 목차](https://wpgenius.notion.site/22c3a0f2ff074c7f83e9b392158dee43)
 
 <details>
 <summary> 1회차 </summary>
@@ -42,80 +42,78 @@
 
 ## 3회차
 >
-> ### 예외처리 - 정수진 
+> ### [예외처리 - 정수진](https://victorious-lace-5a6.notion.site/4d0843eb32304e339bb5dee69dabd15e)
 > > try - catch
 > > </br> try with resource
-> > </br> https://victorious-lace-5a6.notion.site/4d0843eb32304e339bb5dee69dabd15e
->
-> ### thread - 박범진 ★
+
+> ### [thread - 박범진 ★](https://karlisle.tistory.com/7)
 > > thread
-> > </br> https://karlisle.tistory.com/7 / wipia
->
-> ### ArrayList or ( Generic ) - 주수진
+> > pw: wipia
+
+> ### [ArrayList or ( Generic ) - 주수진](https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94)
 > > ArrayList
 > > ArrayList에 Generic
-> > </br> https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94
->
-> ### MAP - 지민우
-> > https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44
->
-> ### 파일 다운로드와 문자열의 유용한 함수들 - 배광민
+
+> ### [MAP - 지민우](https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44)
+
+> ### [파일 다운로드와 문자열의 유용한 함수들 - 배광민](https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864)
 > > </br>1. String 클래스들의 자주 사용되는 함수들
 > > </br>2. 실무에서 파일을 다운로드하기 위한 로직
-> > </br>https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864
+
 </details>
 
 
 <details>
 <summary> 4회차 </summary>
 
-> ### Enum 열거체 - 배광민
+> ### [Enum 열거체 - 배광민](https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe)
 > > enum 이란?
 > > </br> enum의 사용이유
 > > </br> enum의 장점
-> > </br> https://noon-death-01b.notion.site/enum-0b7248253991479d92aefb8e2b516fbe
-> ### Thread와 MultiThread Api - 박범진 ★
+
+> ### [Thread와 MultiThread Api - 박범진 ★](https://karlisle.tistory.com/9)
 > > Thread Group과 executor
 > > </br> Java Thread관리의 어려움
 > > </br> MultiThread Api
-> > </br> https://karlisle.tistory.com/9  pw : wipia
-> ### Generic2 & WildCard - 주수진 ★
+> > </br> pw : wipia
+
+> ### [Generic2 & WildCard - 주수진 ★](https://www.notion.so/GENERIC-WILD-CARD-19b10f205552446bab9553e2c1cbfcf2)
 > > Generic의 사용이유
 > > </br> Type parameter
 > > </br> bounded type parameter
 > > </br> wildCard
-> > </br> https://www.notion.so/GENERIC-WILD-CARD-19b10f205552446bab9553e2c1cbfcf2
-> ### Stack, Queue - 지민우
+
+> ### [Stack, Queue - 지민우](https://clover-piccolo-0fa.notion.site/Stack-Queue-221215-2163d3886bfa4ba69dcbb2fc552a079c)
 > > Stack
 > > </br> Queue
-> > </br> https://clover-piccolo-0fa.notion.site/Stack-Queue-221215-2163d3886bfa4ba69dcbb2fc552a079c
+
 > ### LinkedList - 김선경
 > > LinkedList
-> > </br> 
+
 </details>
 
 
 <details>
 <summary> 5회차 </summary>
   
-> ### 단원 - 배광민
+> ### [단원 - 배광민](url)
 > > 주제
-> > </br> 링크
-> ### 단원 - 박범진
+
+> ### [단원 - 박범진](url)
 > > 주제
-> > </br> 링크
-> ### 단원 - 주수진
+
+> ### [단원 - 주수진](url)
 > > 주제
-> > </br> 링크
-> ### 단원 - 지민우
+
+> ### [단원 - 지민우](url)
 > > 주제
-> > </br> 링크
-> ### 단원 - 김선경
+
+> ### [단원 - 김선경](url)
 > > 주제
-> > </br> 링크
-> ### 단원 - 김선경
+
+> ### [단원 - 김선경](url)
 > > 주제
-> > </br> 링크
+
 </details>
 
 #
