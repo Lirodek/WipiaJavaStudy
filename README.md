@@ -10,36 +10,30 @@
 > > 배열 만드는 방법 
 > > </br> 배열로 동작하는 주소록
 > > </br> 배열을 복사하는 방법
-> > </br>https://noon-death-01b.notion.site/63a2198d66fe4ab98a236e76d5b7127d
->
-> ### OOP (Object Oriented Programming) - 지민우
+
+> ### [OOP (Object Oriented Programming) - 지민우](https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25)
 > > 객체지향개념 - 객체와 인스턴스
-> > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
 </details>
 
 
 <details>
 <summary> 2회차 </summary>
 
->  ### abstract class / interface - 지민우
+>  ### [abstract class / interface - 지민우](https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34)
 > > 추상클래스, 인터페이스 정리
-> > <br>https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34
->
-> ### SingleTon Pattern - 정수진
+
+> ### [SingleTon Pattern - 정수진](https://www.notion.so/104b3c08849c4e0280b2cc6e55250e34)
 > > 싱글톤패턴 노션정리
-> > </br>https://www.notion.so/104b3c08849c4e0280b2cc6e55250e34
->
-> ### java usefull package - 배광민
+
+> ### [java usefull package - 배광민](https://noon-death-01b.notion.site/2022ea82fb2647ec968f2dab34556f40)
 > > object class
-> > </br>https://noon-death-01b.notion.site/2022ea82fb2647ec968f2dab34556f40
->
-> ### 컬렉션 프레임워크 - 박범진 ★
+
+> ### [컬렉션 프레임워크 - 박범진 ★](https://karlisle.tistory.com/5)
 > > Collection
-> > </br>https://karlisle.tistory.com/5
->
-> ### 캐스팅 - 주수진
+
+> ### [캐스팅 - 주수진](https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e)
 > > upCasing & downCasting
-> > <br>https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e
+
 </details>
 
 
