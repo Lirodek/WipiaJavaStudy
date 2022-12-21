@@ -5,12 +5,8 @@
 https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007 
 
 <details>
-<summary>접기/펼치기</summary>
+<summary> ## 1회차 </summary>
 
-내용
-</details>
-
-## 1회차
 > ### Array - 배광민
 > > 배열 만드는 방법 
 > > </br> 배열로 동작하는 주소록
@@ -20,9 +16,12 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > ### OOP (Object Oriented Programming) - 지민우
 > > 객체지향개념 - 객체와 인스턴스
 > > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
+</details>
 
 
-## 2회차
+<details>
+<summary> ## 2회차 </summary>
+
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
 > > <br>https://www.notion.so/221201-db02a30dd6804e89a15f01fb7b3b6f34
@@ -42,7 +41,11 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > ### 캐스팅 - 주수진
 > > upCasing & downCasting
 > > <br>https://internationaltiger.notion.site/CASTING-ac5c264e52044e78aa1dff944180d34e
+</details>
 
+
+<details>
+<summary> ## 2회차 </summary>
 
 ## 3회차
 >
@@ -67,9 +70,12 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > </br>1. String 클래스들의 자주 사용되는 함수들
 > > </br>2. 실무에서 파일을 다운로드하기 위한 로직
 > > </br>https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864
+</details>
 
 
- ## 4회차
+<details>
+<summary> ## 4회차 </summary>
+
 > ### Enum 열거체 - 배광민
 > > enum 이란?
 > > </br> enum의 사용이유
@@ -93,10 +99,12 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > LinkedList - 김선경
 > > LinkedList
 > > </br> 
+</details>
 
 
-
+<details>
+<summary> ## 4회차 </summary>
 ## 5회차
-
+</details>
 
 #
