@@ -11,13 +11,6 @@
 > > </br> 배열로 동작하는 주소록
 > > </br> 배열을 복사하는 방법
 
-> ### [Array - 배광민](https://noon-death-01b.notion.site/63a2198d66fe4ab98a236e76d5b7127d)
-```
-배열 만드는 방법 
-</br> 배열로 동작하는 주소록
-</br> 배열을 복사하는 방법
-```
-
 > ### [OOP (Object Oriented Programming) - 지민우](https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25)
 > > 객체지향개념 - 객체와 인스턴스
 </details>
