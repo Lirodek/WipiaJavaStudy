@@ -48,7 +48,7 @@
 
 > ### [thread - 박범진 ★](https://karlisle.tistory.com/7)
 > > thread
-> > pw: wipia
+> > <br>pw: wipia
 
 > ### [ArrayList or ( Generic ) - 주수진](https://internationaltiger.notion.site/ARRAY-LIST-GENERIC-505c1a47e154441bb57cf0b147bf8f94)
 > > ArrayList
