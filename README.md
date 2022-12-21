@@ -57,7 +57,7 @@
 > ### [MAP - 지민우](https://clover-piccolo-0fa.notion.site/Map-iterator-221208-2a333ab401e146809396ff3497bf0c44)
 
 > ### [파일 다운로드와 문자열의 유용한 함수들 - 배광민](https://wpgenius.notion.site/String-fileDownload-f736bb267ab94adfb6a7718c84f49864)
-> > </br>1. String 클래스들의 자주 사용되는 함수들
+> > 1. String 클래스들의 자주 사용되는 함수들
 > > </br>2. 실무에서 파일을 다운로드하기 위한 로직
 
 </details>
