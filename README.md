@@ -37,12 +37,9 @@
 </details>
 
 
-##
 <details>
-<summary> 3회차 </summary>
+##<summary> 3회차 </summary>
 
-## 3회차
->
 > ### [예외처리 - 정수진](https://victorious-lace-5a6.notion.site/4d0843eb32304e339bb5dee69dabd15e)
 > > try - catch
 > > </br> try with resource
