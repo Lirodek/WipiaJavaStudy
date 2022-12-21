@@ -5,7 +5,7 @@
 https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007 
 
 <details>
-##<summary> 1회차 </summary>
+<summary> 1회차 </summary>
 
 > ### Array - 배광민
 > > 배열 만드는 방법 
