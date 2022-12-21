@@ -20,7 +20,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 <details>
-##<summary> 2회차 </summary>
+<summary> 2회차 </summary>
 
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
@@ -45,7 +45,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 <details>
-##<summary> 2회차 </summary>
+<summary> 3회차 </summary>
 
 ## 3회차
 >
@@ -74,7 +74,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 <details>
-##<summary> 4회차 </summary>
+<summary> 4회차 </summary>
 
 > ### Enum 열거체 - 배광민
 > > enum 이란?
@@ -103,7 +103,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 
 
 <details>
-##<summary> 4회차 </summary>
+<summary> 4회차 </summary>
 ## 5회차
 </details>
 
