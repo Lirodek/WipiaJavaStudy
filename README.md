@@ -6,7 +6,7 @@
 <details>
 <summary> 1회차 </summary>
 
-> [### Array - 배광민](https://noon-death-01b.notion.site/63a2198d66fe4ab98a236e76d5b7127d)
+> ### [Array - 배광민](https://noon-death-01b.notion.site/63a2198d66fe4ab98a236e76d5b7127d)
 > > 배열 만드는 방법 
 > > </br> 배열로 동작하는 주소록
 > > </br> 배열을 복사하는 방법
