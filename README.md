@@ -16,7 +16,7 @@ https://clover-piccolo-0fa.notion.site/3ec36d48929d4e7884dd74e0ae882007
 > > 객체지향개념 - 객체와 인스턴스
 > > <br>https://www.notion.so/221122-e12682ceec424e11bb9ff84b11d63a25
 
-
+aaaa
 > ## 2회차
 >  ### abstract class / interface - 지민우
 > > 추상클래스, 인터페이스 정리
